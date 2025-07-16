@@ -49,7 +49,7 @@ Currently expanding my technical expertise through a Data Analysis Bootcamp at A
 
 ## 🚀 Let’s Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/) *(Add your profile link)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/ana-nobre-santos/) 
 - 💌 Feel free to reach out if you'd like to collaborate on data-driven projects or discuss global leadership and transformation.
 
 ---

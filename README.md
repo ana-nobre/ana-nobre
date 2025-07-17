@@ -9,7 +9,7 @@
 - 🔥 Passionate about combining people-first leadership with data-driven insights to create measurable, lasting business impact.
 - 💡 MSc in International Business Management (Distinction, University of Birmingham), MBA, and BA in Philology — integrating strategic, operational, and cultural perspectives to drive sustainable growth.
 - 🚀 Proven results:
-  - +27% service availability in Spain (+540 appointments) through operational redesign and labor negotiation.
+  - +27% service availability in Spain through operational redesign and labor negotiation.
   - +22% B2B revenue growth in Mexico by leading strategic initiatives and talent development.
   - Regional rollouts (e.g., Today@Apple in Brazil), and cross-border CSR programs enhancing employee engagement and retention (Brazil and Mexico).
 

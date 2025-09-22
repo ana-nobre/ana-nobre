@@ -19,7 +19,7 @@
 
 - **Python**: NumPy, Pandas, Matplotlib, Seaborn, BeautifulSoup, Selenium.
 - **SQL/MySQL**: schema design, advanced queries, optimization.
-- **ETL & Automation**: Apache Airflow.
+- **ETL & Automation**: designed workflows with modular Python architecture for data extraction, transformation, and loading.
 - **Data Visualization**: Tableau, Power BI.
 - **Development Tools**: Git, GitHub, VS Code, Anaconda, CLI, Jupyter.
 - **Methodologies**: Agile/Scrum, Kaizen, Six Sigma.
